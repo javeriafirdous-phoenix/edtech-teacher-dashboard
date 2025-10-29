@@ -9,6 +9,12 @@ It enables teachers to track classes, manage homework, and maintain student prog
 🔗 [https://edtech-prototype-1058c.web.app/](https://edtech-prototype-1058c.web.app/)
 
 ---
+🧑‍🏫 **Demo Login**
+
+Username: admin
+Password: 1234
+
+--- 
 
 ## 🧩 Features
 - 👩‍🏫 Manage students, classes, and attendance  
