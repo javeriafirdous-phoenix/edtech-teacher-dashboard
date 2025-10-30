@@ -43,14 +43,7 @@ git clone https://github.com/javeriafirdous-phoenix/edtech-teacher-dashboard.git
 cd edtech-teacher-dashboard
 npm install
 npm start
-
-Excellent 👍 — adding a **Security Note** + **Firebase Setup Instructions** is *exactly* what makes your project look professional and trustworthy to recruiters and collaborators.
-
-Here’s a clean, ready-to-paste section you can add at the bottom of your **README.md**:
-
----
-
-```markdown
+```
 ---
 
 ## 🔐 Security Note & Firebase Setup
